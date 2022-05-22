@@ -2,7 +2,7 @@
 
 <h4>Fullstack Dev, working with Docker, Next.js and Node.js</h4>
 
-- 📚 I’m currently learning **Elixir**
+- 📚 I’m currently learning **Go**
 - 💻 I'm currently working on [**JSBalance**](https://github.com/heidenreichgeorg/JSBalance)
 
 <br />
