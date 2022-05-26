@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-heidenreich&show_icons=true&theme=dark&locale=en" alt="tom-heidenreich" /></p>
 
-[MyStreak](https://github-readme-streak-stats.herokuapp.com/?user=tom-heidenreich&theme=dark)
+[![MyStreak](https://github-readme-streak-stats.herokuapp.com/?user=tom-heidenreich&theme=dark)](https://git.io/streak-stats)
