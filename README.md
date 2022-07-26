@@ -1,9 +1,6 @@
 <h1>Hi there 👌</h1>
 
-<h4>Fullstack Dev, working with Docker, Next.js and Node.js</h4>
-
-- 📚 I’m currently learning **Go**
-- 💻 I'm currently working on [**unicorn-template**](https://github.com/tom-heidenreich/unicorn-template)
+<h4>Fullstack Dev, working with Docker, Next.js, Node.js and Go</h4>
 
 <br />
 
